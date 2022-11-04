@@ -1,4 +1,4 @@
-<h1>Hello, world! I'm João Fonseca.</h1>
+<h1 align="center">Hello, world! I'm João Fonseca.</h1>
 
 <h4 align="center">
   <p>
@@ -9,7 +9,7 @@
   </p>
 </h4>
   
-  Two years ago I decided to follow the technology way an
+  A brazilian IT student who decided to continue his passion for technology through lines of code. I hope in the near future to become a full stack developer. Get out of the comfort zone is not an option, but my obligation!
   
   I was an intern at HPE Automores do Brasil (Mitubishi Motor Company). There was the place that I learned about many skills that a developer needs to have in order to do a 
   great job. I worked for 11 months with data analysis (Python with Pandas), business intelligence (Power BI) and sheets automation (VBA).
